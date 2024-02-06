@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://except-dev.vercel.app/](https://except-dev.vercel.app/) [outdated]
 
-- 💬 Ask me about **HTML5 Web Application**
+- 💬 Ask me about **HTML5 Web Application & Blockchain | WEB3**
 
 - 📫 How to reach me **fabio.maganza.dev@gmail.com**
 
