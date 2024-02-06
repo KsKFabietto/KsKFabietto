@@ -2,7 +2,7 @@
 
 <h1 align="center">Yo, it's Fabietto here</h1>
 <h3 align="center">Frontend developer and Cyber Security Expert</h3>
-<img align="right" alt="Coding" width="370" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif"/>
+<img align="right" alt="Coding" width="380" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif"/>
 
 <p align="left"> <a href="https://twitter.com/@kskfabietto" target="blank"><img src="https://img.shields.io/twitter/follow/@kskfabietto?logo=twitter&style=for-the-badge" alt="@kskfabietto" /></a> </p>
 
