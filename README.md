@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [[https://except-dev.vercel.app/]([https://except-devs.vercel.app](https://except-devs.vercel.app))][outdated]
+- 👨‍💻 All of my projects are available at [https://except-dev.vercel.app/]([https://except-devs.vercel.app](https://except-devs.vercel.app))][outdated]
 
 - 💬 Ask me about **HTML5 Web Application & Blockchain | WEB3**
 
