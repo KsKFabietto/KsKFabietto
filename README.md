@@ -1,7 +1,7 @@
 [![MasterHead](https://f8n-production.s3.amazonaws.com/creators/profile/v5z3p0p8u-waiting-ll-3-gif-h8ivut.gif)]()
 
 <h1 align="center">Yo, it's Fabietto here</h1>
-<h3 align="center">Frontend developer and Cyber Security Expert</h3>
+<h3 align="center">Fullstack developer and Cyber Security Expert</h3>
 <h3 align="center">BULLISH ON WEB3</h3>
 <img align="right" alt="Coding" width="380" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif"/>
 
